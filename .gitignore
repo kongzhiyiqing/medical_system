@@ -1,0 +1,8 @@
+bin/
+out/
+*.class
+*_output.csv
+.idea/
+*.iml
+.claude/
+nul
